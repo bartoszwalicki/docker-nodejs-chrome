@@ -1,11 +1,11 @@
 # larcado/nodejs-chrome
 
-latest node.js (with npm) + latest stable Google Chrome
+node.js v16.14.0-buster (with npm) + latest stable Google Chrome
 
 ## bundled with latest image
 | Package name | Version |
 | ------ | ------ |
-| node.js | v11.11.0 |
+| node.js | v16.14.0-buster |
 | npm | 6.9.0 |
 | Google Chrome | 72.0.3626.121 |
 
